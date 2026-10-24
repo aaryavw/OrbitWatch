@@ -152,13 +152,8 @@ python -m app.simulator
 The default project contains generated simulated telemetry only. If you integrate external data, document the exact source, citation, license, and required attribution. Do not assume all agency-published datasets share the same reuse terms.
 
 ## License
-# Open Source License
 
 OrbitWatch is released under the **MIT License**.
-
----
-
-### MIT License
 
 Copyright (c) 2026 OrbitWatch Contributors
 
